@@ -431,6 +431,11 @@
 
 	<dependencies>
 		<dependency>
+			<groupId>org.eclipse.mylyn.github</groupId>
+			<artifactId>org.eclipse.egit.github.core</artifactId>
+			<version>3.1.0.201310021548-r</version>
+		</dependency>
+		<dependency>
 			<groupId>net.jcip</groupId>
 			<artifactId>jcip-annotations</artifactId>
 			<version>1.0</version>
